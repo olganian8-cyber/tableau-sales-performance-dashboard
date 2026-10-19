@@ -36,3 +36,6 @@ Tableau | Dashboard Development | Data Visualization | Calculated Fields | KPI R
 
 ## Project Files
 The repository includes the Tableau Packaged Workbook (.twbx), which can be opened in Tableau Desktop.
+## Dashboard Preview
+
+![Sales Performance Dashboard](Sales%20Dashboard.png)
